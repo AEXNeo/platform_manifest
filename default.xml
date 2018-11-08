@@ -4,7 +4,7 @@
            fetch="https://github.com/LineageOS"
            revision="refs/heads/cm-14.1" />
 
-  <remote  name="aosp-caf"
+  <remote  name="aex-neo"
            fetch="https://github.com/AEXNeo"
            revision="refs/heads/nougat" />
 
